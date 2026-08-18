@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/linkedin cover photo.png" width="100%" alt="Abdul Rafay">
+  <img src="./assets/linkedin cover photo.jpg" width="100%" alt="Abdul Rafay">
 </p>
 
 <h1 align="center">Hi, I'm Abdul Rafay 👋</h1>
