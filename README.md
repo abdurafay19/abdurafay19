@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/linkedin cover photo.jpg" width="100%" alt="Abdul Rafay">
+  <img src="./assets/linkedin-cover-photo.jpg" width="100%" alt="Abdul Rafay">
 </p>
 
 <h1 align="center">Hi, I'm Abdul Rafay 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student · AI/ML · Automation · Software Engineering</b>
+  <b>BS Computer Science Student · AI/ML · Automation · Software Engineering</b>
 </p>
 
 <p align="center">
@@ -157,4 +157,4 @@ This project represents our work with distributed systems, memory management, ne
 ---
 
 📫 Connect
-<p align="center"> <a href="https://github.com/abdurafay19"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/abdurafay19/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p> <p align="center"> <i> Understand. Build better.</i> </p> ```
+<p align="center"> <a href="https://github.com/abdurafay19"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/abdurafay19/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p> <p align="center"> <i> Understand. Build better.</i> </p>
