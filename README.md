@@ -93,6 +93,20 @@ A selection of projects that represent the different areas I'm exploring as a Co
 
 ---
 
+## 🌐 Distributed Shared Memory (DSM) — Group Project
+
+<a href="https://github.com/ZERO-70/DSM">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository">
+</a>
+
+A team-based systems project implementing a **Distributed Shared Memory (DSM) library** in C for nodes connected over a Local Area Network.
+
+This project represents our work with distributed systems, memory management, networking, synchronization, and low-level operating system concepts, including demand paging and page-fault handling.
+
+**Focus:** `Distributed Systems` · `Operating Systems` · `Computer Networks` · `C` · `Memory Management`
+
+---
+
 ## 🤖 AI Lead Intake Automation
 
 <a href="https://github.com/abdurafay19/n8n-ai-lead-intake">
@@ -138,20 +152,6 @@ A computer architecture project implementing a **Mano Machine** using Logisim.
 This project represents my work with digital logic, CPU architecture, instruction execution, and low-level computer systems.
 
 **Focus:** `Computer Architecture` · `Digital Logic` · `Logisim` · `Computer Systems`
-
----
-
-## 🌐 Distributed Shared Memory (DSM) — Group Project
-
-<a href="https://github.com/ZERO-70/DSM">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-
-A team-based systems project implementing a **Distributed Shared Memory (DSM) library** in C for nodes connected over a Local Area Network.
-
-This project represents our work with distributed systems, memory management, networking, synchronization, and low-level operating system concepts, including demand paging and page-fault handling.
-
-**Focus:** `Distributed Systems` · `Operating Systems` · `Computer Networks` · `C` · `Memory Management`
 
 ---
 
