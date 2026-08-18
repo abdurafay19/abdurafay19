@@ -122,7 +122,6 @@ The project combines:
 - NDVI–LST correlation
 - Land-cover transitions
 - Road-distance analysis
-- District-level vulnerability analysis
 
 **Focus:** `Remote Sensing` · `GIS` · `Google Earth Engine` · `Python` · `Spatial Data Science`
 
