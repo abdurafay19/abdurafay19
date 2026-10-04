@@ -10,14 +10,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=4FC4B0&center=true&vCenter=true&width=640&height=40&lines=Computer%20vision%20pipelines%20with%20YOLO%20and%20OpenCV;PyTorch%20models%20served%20in%20production;n8n%20AI%20automations%20that%20run%20themselves">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=2C7A72&center=true&vCenter=true&width=640&height=40&lines=Computer%20vision%20pipelines%20with%20YOLO%20and%20OpenCV;PyTorch%20models%20served%20in%20production;n8n%20AI%20automations%20that%20run%20themselves">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=2C7A72&center=true&vCenter=true&width=640&height=40&lines=Computer%20vision%20pipelines%20with%20YOLO%20and%20OpenCV;PyTorch%20models%20served%20in%20production;n8n%20AI%20automations%20that%20run%20themselves" alt="Computer vision pipelines with YOLO and OpenCV · PyTorch models served in production · n8n AI automations that run themselves">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=4FC4B0&center=true&vCenter=true&width=640&height=40&lines=Computer%20vision%20pipelines%20with%20YOLO%20and%20OpenCV;PyTorch%20models%20served%20in%20production;n8n%20AI%20automations%20that%20run%20themselves;Low-level%20systems%20in%20C%2C%20down%20to%20the%20logic%20gates">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=2C7A72&center=true&vCenter=true&width=640&height=40&lines=Computer%20vision%20pipelines%20with%20YOLO%20and%20OpenCV;PyTorch%20models%20served%20in%20production;n8n%20AI%20automations%20that%20run%20themselves;Low-level%20systems%20in%20C%2C%20down%20to%20the%20logic%20gates">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1800&color=2C7A72&center=true&vCenter=true&width=640&height=40&lines=Computer%20vision%20pipelines%20with%20YOLO%20and%20OpenCV;PyTorch%20models%20served%20in%20production;n8n%20AI%20automations%20that%20run%20themselves;Low-level%20systems%20in%20C%2C%20down%20to%20the%20logic%20gates" alt="Computer vision pipelines with YOLO and OpenCV · PyTorch models served in production · n8n AI automations that run themselves · Low-level systems in C, down to the logic gates">
   </picture>
 </p>
 
 <p align="center">
-  <b>AI Engineer · Computer Vision · Machine Learning · AI Automation</b><br>
+  <b>AI Engineer · Computer Vision · Machine Learning · AI Automation · Low-Level Systems</b><br>
   CS student at ITU Lahore and Teaching Assistant for Computer Architecture
 </p>
 
@@ -32,6 +32,15 @@
   <a href="https://huggingface.co/spaces/abdurafay19/Digit-Classifier"><img src="https://img.shields.io/badge/Live%20Demo-Numera-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Numera live demo"></a>
   <a href="https://secretsend.dev"><img src="https://img.shields.io/badge/Live-secretsend.dev-2C7A72?style=for-the-badge" alt="SecretSend live"></a>
 </p>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h3>99.43%</h3><sub>MNIST test accuracy<br>CNN trained from scratch</sub></td>
+<td align="center" width="25%"><h3>8</h3><sub>connected n8n workflows<br>in one multi-tenant system</sub></td>
+<td align="center" width="25%"><h3>24 years</h3><sub>of satellite data<br>analysed across Sindh</sub></td>
+<td align="center" width="25%"><h3>16-bit</h3><sub>CPU built from logic gates<br>35 custom subcircuits</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -193,9 +202,10 @@ A complete 16-bit stored-program computer built from logic gates: 35 custom subc
 
 ## 🌱 Currently
 
-- 🌾 Exploring computer vision for crop disease detection (Meri Fasal R&D)
+- ♻️ Building my final year project: waste classification with computer vision, with robotic gripper sorting as the next stage
+- 🔩 Going deeper into low-level systems: C, operating systems and computer architecture
 - 🎓 Teaching Assistant for Computer Architecture at ITU
-- 🔍 Open to AI engineering roles, internships and freelance projects
+- 🔍 Open to AI engineering and low-level systems roles, internships and freelance projects
 
 ---
 
@@ -210,3 +220,5 @@ A complete 16-bit stored-program computer built from logic gates: 35 custom subc
 <p align="center">
   <i>Understand the problem. Build what works.</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C7A72,100:4FC4B0&height=110&section=footer" width="100%" alt="">
